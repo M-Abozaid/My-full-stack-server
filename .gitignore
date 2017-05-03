@@ -1,0 +1,24 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+.idea
+.tmp
+pids
+logs
+thumbs.db
+dump.rdb
+
+.DS_Store
+npm-debug.log
+node_modules
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> 177c58b2ef2b8c10c8cc8ec9853d3cc888cb39bb
