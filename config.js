@@ -1,6 +1,6 @@
 module.exports = {
     'secretKey': '12345-67890-09876-54321',
-    'mongoUrl' : 'mongodb://localhost:27017/conFusion',
+    'mongoUrl' : 'mongodb://Muhammed:012580504999@users-shard-00-00-gkxxn.mongodb.net:27017,users-shard-00-01-gkxxn.mongodb.net:27017,users-shard-00-02-gkxxn.mongodb.net:27017/conFusion?ssl=true&replicaSet=users-shard-0&authSource=admin',
     //'mongoUrl' : 'mongodb://Muhammed:012580504999@users-shard-00-00-gkxxn.mongodb.net:27017,users-shard-00-01-gkxxn.mongodb.net:27017,users-shard-00-02-gkxxn.mongodb.net:27017/users?ssl=true&replicaSet=users-shard-0&authSource=admin'
     'facebook': {
         clientID: '1670058116632920',
